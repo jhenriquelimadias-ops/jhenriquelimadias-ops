@@ -40,6 +40,14 @@ Tenho interesse em programação, desenvolvimento de sistemas e aprendizado cont
 
 ---
 
+<div align="center">
+
+*May the Force be with you.*
+
+</div>
+
+---
+
 ## Estatísticas do GitHub
 
 <div align="center">
@@ -47,13 +55,5 @@ Tenho interesse em programação, desenvolvimento de sistemas e aprendizado cont
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
-
-</div>
-
----
-
-<div align="center">
-
-*May the Force be with you.*
 
 </div>
