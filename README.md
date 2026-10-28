@@ -1,16 +1,17 @@
 
 <div align="center">
 
-# Olá, eu sou o Zé! 👋
+# Olá, eu sou o Zé!
 
 ### Estudante de Tecnologia da Informação
 
-🎓 ETEC — Centro Paula Souza
+ETEC — Centro Paula Souza
 
 <br>
 
-*"Luminous beings are we, not this crude matter."*  
-— Yoda
+*"Luminous beings are we, not this crude matter."*
+
+— Yoda, Star Wars
 
 </div>
 
@@ -18,32 +19,28 @@
 
 ## Sobre mim
 
-Sou estudante de Tecnologia da Informação na ETEC, da rede Centro Paula Souza, e estou construindo minha jornada na área de tecnologia.
+Sou estudante de Tecnologia da Informação na ETEC, da rede Centro Paula Souza, e estou desenvolvendo meus conhecimentos na área de tecnologia.
 
-Tenho interesse em aprender, desenvolver projetos e explorar novas possibilidades dentro da programação e da informática.
+Tenho interesse em programação, desenvolvimento de sistemas e aprendizado contínuo, buscando aprimorar minhas habilidades por meio de estudos e projetos práticos.
 
-- 🎓 Estudante de TI
-- 💻 Aprendendo e desenvolvendo minhas habilidades técnicas
-- 🚀 Buscando evoluir por meio de projetos e experiências práticas
-- 🌌 Fã de Star Wars e do universo geek
+- 🎓 Estudante de Tecnologia da Informação
+- 💻 Aprendendo e desenvolvendo habilidades técnicas
+- 🚀 Interessado em programação e desenvolvimento de sistemas
+- 📚 Sempre buscando novos conhecimentos
 
 ---
 
 ## Tecnologias e ferramentas
 
-*Tecnologias que estou aprendendo e utilizando.*
-
 <div align="center">
 
-<!-- Personalize os ícones conforme as tecnologias que você conhece -->
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,vscode" />
 
 </div>
 
 ---
 
-## GitHub Stats
+## Estatísticas do GitHub
 
 <div align="center">
 
@@ -57,8 +54,6 @@ Tenho interesse em aprender, desenvolver projetos e explorar novas possibilidade
 
 <div align="center">
 
-*"May the Force be with you."*
-
-**Que a Força esteja com você.**
+*May the Force be with you.*
 
 </div>
