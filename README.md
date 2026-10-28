@@ -1,77 +1,79 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:151d30,100:263b59&height=200&section=header&text=Z%C3%A9&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Tecnologia%20da%20Informa%C3%A7%C3%A3o&descAlignY=58&descSize=17"/>
+# Olá, eu sou o José Dias
+
+### Estudante de Tecnologia da Informação
+
+**ETEC Elias Nechar | Centro Paula Souza**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Estudante+de+Tecnologia+da+Informacao;Aprendendo+e+desenvolvendo+novas+habilidades;Transformando+ideias+em+projetos;May+the+Force+be+with+you." alt="Apresentação animada" />
+
+</div>
+
+---
+
+## Sobre mim
+
+Sou estudante de Tecnologia da Informação na [ETEC Elias Nechar](https://eteceliasnechar.cps.sp.gov.br/), instituição pertencente à rede do [Centro Paula Souza](https://www.cps.sp.gov.br/).
+
+Estou construindo minha trajetória na área de tecnologia, desenvolvendo meus conhecimentos e explorando as possibilidades da programação e do desenvolvimento de sistemas.
+
+Meu objetivo é transformar o aprendizado em projetos práticos, aprimorar minhas habilidades técnicas e construir uma base sólida para minha futura carreira profissional.
+
+## Formação acadêmica
+
+- **Instituição:** [ETEC Elias Nechar](https://eteceliasnechar.cps.sp.gov.br/)
+- **Rede de ensino:** [Centro Paula Souza](https://www.cps.sp.gov.br/)
+- **Área de estudos:** Tecnologia da Informação
+
+---
+
+## Tecnologias e ferramentas
+
+<div align="center">
+
+<!-- Mantenha apenas as tecnologias que você já conhece ou está estudando. -->
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,vscode&theme=dark" alt="Tecnologias e ferramentas" />
+
+</div>
+
+---
+
+## Estatísticas do GitHub
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jhenriquelimadias-ops&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true&custom_title=Grafico%20de%20Contribuicoes" alt="Gráfico de contribuições do GitHub" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1200&color=A9B8D0&center=true&vCenter=true&width=750&lines=Estudante+de+TI+%7C+ETEC+%7C+Centro+Paula+Souza;Explorando+uma+gal%C3%A1xia+de+possibilidades;May+the+Force+be+with+you.;Do+or+do+not.+There+is+no+try." alt="Animação de apresentação com tema Star Wars"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jhenriquelimadias-ops&show_icons=true&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9&locale=pt-br" alt="Estatísticas do GitHub" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhenriquelimadias-ops&layout=compact&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&locale=pt-br" alt="Linguagens mais utilizadas" />
 
 </div>
 
 ---
 
-<div align="center">
+## Objetivos
 
-## 👨‍💻 Sobre mim
-
-</div>
-
-Olá! Sou estudante de Tecnologia da Informação na ETEC, da rede Centro Paula Souza, e estou construindo minha trajetória na área de tecnologia.
-
-Tenho interesse em aprender, explorar novas ferramentas e desenvolver minhas habilidades por meio de estudos e projetos práticos.
-
-Acredito que cada projeto é uma oportunidade de aprender algo novo e evoluir como profissional.
-
-- 🎓 **Formação:** Técnico em Tecnologia da Informação
-- 🏫 **Instituição:** ETEC — Centro Paula Souza
-- 💻 **Interesses:** programação e desenvolvimento de sistemas
-- 📚 **Foco:** aprendizado contínuo e projetos práticos
+- Desenvolver minhas habilidades em programação.
+- Criar projetos para colocar em prática o que aprendo.
+- Conhecer novas tecnologias e ferramentas.
+- Evoluir continuamente como estudante e futuro profissional de TI.
 
 ---
 
 <div align="center">
 
-## 🛠️ Tecnologias e ferramentas
+### "May the Force be with you."
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,vscode&theme=dark" alt="Tecnologias e ferramentas"/>
+*Uma galáxia de possibilidades começa com o primeiro passo.*
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-## 🤝 Conecte-se comigo
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jhenriquelimadias-ops&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhenriquelimadias-ops&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jhenriquelimadias-ops&theme=github-compact&hide_border=true&area=true" alt="Gráfico de atividade do GitHub"/>
-
-</div>
-
----
-
-<div align="center">
-
-*"May the Force be with you."*
-
-<sub>Uma galáxia de possibilidades, um projeto de cada vez.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:70a5fd&height=100&section=footer" width="100%" alt="Rodapé azul em degradê" />
 
 </div>
